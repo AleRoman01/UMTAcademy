@@ -1,0 +1,4 @@
+C:\Users\Roman\source\repos\MyProject\Model\bin\Debug\netcoreapp3.1\Model.exe
+C:\Users\Roman\source\repos\MyProject\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\MyProject\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\MyProject\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs

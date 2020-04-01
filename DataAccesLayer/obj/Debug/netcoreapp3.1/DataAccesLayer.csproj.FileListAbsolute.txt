@@ -1,0 +1,4 @@
+C:\Users\Roman\source\repos\MyProject\DataAccesLayer\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Roman\source\repos\MyProject\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\MyProject\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\MyProject\DataAccesLayer\obj\Debug\netcoreapp3.1\DataAccesLayer.AssemblyInfo.cs
